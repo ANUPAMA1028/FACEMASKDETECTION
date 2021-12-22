@@ -135,7 +135,7 @@ Feel free to mail me for any doubts/query
 
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
+Made with :heart:&nbsp;  by [ANUPAMA1028](https://github.com/ANUPAMA1028/FACEMASKDETECTION)
 
 ## :+1: Credits
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
@@ -191,6 +191,4 @@ Follow this format:
 
 ---
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
 
